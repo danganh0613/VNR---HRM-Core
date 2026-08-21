@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f69775557edb5bc915e17a47dd8ed5683c8abc3164812895dfdb4dc8d9b5e32f;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/overlays/hrm-hover-card.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; min-width: 0; }\n.hc-anchor { display: inline-flex; min-width: 0; cursor: default; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,aAAW;AAAG;AAC5C,CAAC;AAAY,WAAS;AAAa,aAAW;AAAG,UAAQ;AAAS;",
+  "names": []
+}

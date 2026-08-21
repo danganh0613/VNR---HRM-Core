@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;3c4765eb6b72c43cc611b5f2a59fa6fd36a0dadd4a9ae1c5fff774d45b90d7cd;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-display/hrm-badge.ts"],
+  "sourcesContent": ["\n:host([data-shape='square']) ::ng-deep .ant-badge-count { border-radius: var(--radius-sm); }\n  "],
+  "mappings": ";AACA,MAAM,CAAC,UAAU,CAAC,WAAW,UAAU,CAAC;AAAkB,iBAAe,IAAI;AAAc;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;2669e0e9065202d79a3895f8668fc6b89870a31c776918d904053333a3f04dd3;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/chart/hrm-tracker.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; align-items: center; gap: var(--_gap, 3px); max-width: 100%; flex-wrap: wrap; }\n.tk-cell {\n  flex: none; width: var(--_w, 10px); height: var(--_h, 24px);\n  border-radius: var(--radius-xs, 2px);\n  transition: opacity var(--duration-fast, .15s) var(--ease-out, ease);\n}\n.tk-cell:hover { opacity: .75; }\n.tk-cell[data-tone='success'] { background: var(--success-base); }\n.tk-cell[data-tone='warning'] { background: var(--warning-base); }\n.tk-cell[data-tone='error']   { background: var(--error-base); }\n.tk-cell[data-tone='info']    { background: var(--info-base); }\n.tk-cell[data-tone='neutral'] { background: var(--neutral-300, var(--border-sub)); }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,eAAa;AAAQ,OAAK,IAAI,MAAM,EAAE;AAAM,aAAW;AAAM,aAAW;AAAM;AAC5G,CAAC;AACC,QAAM;AAAM,SAAO,IAAI,IAAI,EAAE;AAAO,UAAQ,IAAI,IAAI,EAAE;AACtD,iBAAe,IAAI,WAAW,EAAE;AAChC,cAAY,QAAQ,IAAI,eAAe,EAAE,MAAM,IAAI,UAAU,EAAE;AACjE;AACA,CALC,OAKO;AAAS,WAAS;AAAK;AAC/B,CANC,OAMO,CAAC;AAAuB,cAAY,IAAI;AAAiB;AACjE,CAPC,OAOO,CAAC;AAAuB,cAAY,IAAI;AAAiB;AACjE,CARC,OAQO,CAAC;AAAuB,cAAY,IAAI;AAAe;AAC/D,CATC,OASO,CAAC;AAAuB,cAAY,IAAI;AAAc;AAC9D,CAVC,OAUO,CAAC;AAAuB,cAAY,IAAI,aAAa,EAAE,IAAI;AAAgB;",
+  "names": []
+}

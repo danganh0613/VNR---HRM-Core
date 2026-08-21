@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f545b8a89f6579ac8c30d6fa3023f9ec8d3a77d78bc87df92b696ca89d1fe77b;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-display/timestamp.ts"],
+  "sourcesContent": ["\n    .col { display: flex; flex-direction: column; gap: 10px; }\n    .row { display: flex; align-items: center; gap: 16px; }\n    .lbl { width: 140px; font-size: var(--fs-14); color: var(--text-body); }\n  "],
+  "mappings": ";AACI,CAAC;AAAM,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM;AACzD,CAAC;AAAM,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM;AACtD,CAAC;AAAM,SAAO;AAAO,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;55ec1842a9b945809a8f4e28f492c59a0563cdcf4318f019280776156e5c6bb3;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/navigation/hrm-breadcrumb.ts"],
+  "sourcesContent": ["\n.hrm-bc-ic { display: inline-flex; vertical-align: text-bottom; margin-right: 4px; }\n  "],
+  "mappings": ";AACA,CAAC;AAAY,WAAS;AAAa,kBAAgB;AAAa,gBAAc;AAAK;",
+  "names": []
+}

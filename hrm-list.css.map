@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f1c90dd90b87ede77da0f087a42fcfaeb2ee7e8fadf0b354bf4302a559adf377;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-display/hrm-list.ts"],
+  "sourcesContent": ["\n.hrm-list-extra { font-size: var(--fs-13); color: var(--text-sub); white-space: nowrap; }\n  "],
+  "mappings": ";AACA,CAAC;AAAiB,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,eAAa;AAAQ;",
+  "names": []
+}

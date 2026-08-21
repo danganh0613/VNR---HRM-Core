@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;b5274ae852bd5e6a61604a5faa36b3736d0e0a9cbdc7279cfe02f88155d095a1;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/_shared/ins-sla-chip.ts"],
+  "sourcesContent": ["\n    :host {\n      display: inline-flex; align-items: center; white-space: nowrap;\n      font-size: var(--fs-11); line-height: 1.4; font-weight: 500;\n      padding: 1px 9px; border-radius: var(--radius-full);\n    }\n    :host([data-tone='ok']) { background: var(--success-bg); color: var(--success-text); }\n    :host([data-tone='warn']) { background: var(--warning-bg); color: var(--warning-text); }\n    :host([data-tone='danger']) { background: var(--error-bg); color: var(--error-text); }\n    :host([data-tone='muted']) { background: var(--bg-surface-subtle); color: var(--text-sub); }\n  "],
+  "mappings": ";AACI;AACE,WAAS;AAAa,eAAa;AAAQ,eAAa;AACxD,aAAW,IAAI;AAAU,eAAa;AAAK,eAAa;AACxD,WAAS,IAAI;AAAK,iBAAe,IAAI;AACvC;AACA,MAAM,CAAC,SAAS,CAAC;AAAS,cAAY,IAAI;AAAe,SAAO,IAAI;AAAiB;AACrF,MAAM,CAAC,SAAS,CAAC;AAAW,cAAY,IAAI;AAAe,SAAO,IAAI;AAAiB;AACvF,MAAM,CAAC,SAAS,CAAC;AAAa,cAAY,IAAI;AAAa,SAAO,IAAI;AAAe;AACrF,MAAM,CAAC,SAAS,CAAC;AAAY,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAa;",
+  "names": []
+}

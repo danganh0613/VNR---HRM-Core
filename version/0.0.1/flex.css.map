@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;9e87eef433d92b35d7e9e48c7176e4191ffa10bc45cb41a8003853a6b1835e15;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/layout/flex.ts"],
+  "sourcesContent": ["\n    .c {\n      background: var(--primary-bg-subtle); color: var(--primary-base);\n      border-radius: var(--radius-md); padding: 10px 16px;\n      font-size: var(--fs-13); font-weight: 500; white-space: nowrap;\n    }\n    .dark .c { color: var(--text-strong); }\n  "],
+  "mappings": ";AACI,CAAC;AACC,cAAY,IAAI;AAAsB,SAAO,IAAI;AACjD,iBAAe,IAAI;AAAc,WAAS,KAAK;AAC/C,aAAW,IAAI;AAAU,eAAa;AAAK,eAAa;AAC1D;AACA,CAAC,KAAK,CALL;AAKU,SAAO,IAAI;AAAgB;",
+  "names": []
+}

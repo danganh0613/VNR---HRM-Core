@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;34df0c171093022c781496ee89e5aa6908ea4a24383031efcad7b9fa1ce4310d;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m07-payment/reports/m07-audit-tab.ts"],
+  "sourcesContent": ["\n    :host { display: block; }\n    .au { display: flex; flex-direction: column; gap: 10px; }\n    .au-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }\n    .au-kw { display: inline-block; width: 300px; }\n    .au-gap { flex: 1; }\n    .au-note { margin: 0; font-size: var(--fs-11); color: var(--text-soft); }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAO;AACxB,CAAC;AAAK,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM;AACxD,CAAC;AAAU,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,aAAW;AAAM;AAC3E,CAAC;AAAQ,WAAS;AAAc,SAAO;AAAO;AAC9C,CAAC;AAAS,QAAM;AAAG;AACnB,CAAC;AAAU,UAAQ;AAAG,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;",
+  "names": []
+}

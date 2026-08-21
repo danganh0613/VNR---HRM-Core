@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f800a186f475a11f912c986c22bd67aaef505308e02b5961ac7e2aa1e6b7b3fa;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-display/hrm-timestamp.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; }\n.ts { font-size: var(--fs-13); color: var(--text-sub); white-space: nowrap; }\n.ts--tip { cursor: default; text-decoration: underline dotted var(--border-input); text-underline-offset: 3px; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa;AAC9B,CAAC;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,eAAa;AAAQ;AAC5E,CAAC;AAAU,UAAQ;AAAS,mBAAiB,UAAU,OAAO,IAAI;AAAiB,yBAAuB;AAAK;",
+  "names": []
+}

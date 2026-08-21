@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;aa832f613a3a145af48b31b76b0b4f22b8deca9c7f672c08b9f73a067e64ac7f;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-display/comment.ts"],
+  "sourcesContent": ["\n    .cmt-act {\n      display: inline-flex; align-items: center; gap: 4px;\n      cursor: pointer; color: var(--text-sub); font-size: var(--fs-13);\n    }\n    .cmt-act:hover { color: var(--primary-base); }\n  "],
+  "mappings": ";AACI,CAAC;AACC,WAAS;AAAa,eAAa;AAAQ,OAAK;AAChD,UAAQ;AAAS,SAAO,IAAI;AAAa,aAAW,IAAI;AAC1D;AACA,CAJC,OAIO;AAAS,SAAO,IAAI;AAAiB;",
+  "names": []
+}

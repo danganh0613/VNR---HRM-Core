@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;3a431aa41e29e0da3a808830c54d698c75a8996413afb68b2cb79c709b424c5b;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/template/login-page.ts"],
+  "sourcesContent": ["\n    .lp-frame {\n      width: 100%; aspect-ratio: 16 / 10; border: 1px solid var(--border-sub);\n      border-radius: var(--radius-xl); overflow: hidden; background: var(--bg-surface-subtle);\n    }\n    .lp-frame iframe { width: 100%; height: 100%; border: 0; display: block; }\n    .lp-actions { margin-top: 14px; }\n    .lp-actions a { text-decoration: none; }\n  "],
+  "mappings": ";AACI,CAAC;AACC,SAAO;AAAM,gBAAc,GAAG,EAAE;AAAI,UAAQ,IAAI,MAAM,IAAI;AAC1D,iBAAe,IAAI;AAAc,YAAU;AAAQ,cAAY,IAAI;AACrE;AACA,CAJC,SAIS;AAAS,SAAO;AAAM,UAAQ;AAAM,UAAQ;AAAG,WAAS;AAAO;AACzE,CAAC;AAAa,cAAY;AAAM;AAChC,CADC,WACW;AAAI,mBAAiB;AAAM;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f4fde72199d0c914f952d4297412e3e1630c876c9787a0023816c35b8300b656;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/chart/hrm-category-bar.ts"],
+  "sourcesContent": ["\n:host { display: flex; flex-direction: column; gap: 10px; width: 100%; }\n.cb-bar { display: flex; height: 12px; border-radius: var(--radius-full); overflow: hidden; gap: 2px; }\n.cb-seg { min-width: 4px; }\n.cb-legend { display: flex; flex-wrap: wrap; gap: 6px 16px; }\n.cb-item { display: inline-flex; align-items: center; gap: 6px; font-size: var(--fs-13); }\n.cb-dot { width: 8px; height: 8px; border-radius: var(--radius-full); flex: none; }\n.cb-lbl { color: var(--text-body); }\n.cb-pct { color: var(--text-sub); font-variant-numeric: tabular-nums; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,SAAO;AAAM;AACvE,CAAC;AAAS,WAAS;AAAM,UAAQ;AAAM,iBAAe,IAAI;AAAgB,YAAU;AAAQ,OAAK;AAAK;AACtG,CAAC;AAAS,aAAW;AAAK;AAC1B,CAAC;AAAY,WAAS;AAAM,aAAW;AAAM,OAAK,IAAI;AAAM;AAC5D,CAAC;AAAU,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU;AACzF,CAAC;AAAS,SAAO;AAAK,UAAQ;AAAK,iBAAe,IAAI;AAAgB,QAAM;AAAM;AAClF,CAAC;AAAS,SAAO,IAAI;AAAc;AACnC,CAAC;AAAS,SAAO,IAAI;AAAa,wBAAsB;AAAc;",
+  "names": []
+}

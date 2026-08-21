@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;610ef25cd76a8b57092147e5d9127c137e2d0e675a6ff53107133f99baf7d780;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/chart/hrm-sparkline.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; line-height: 0; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,eAAa;AAAG;",
+  "names": []
+}

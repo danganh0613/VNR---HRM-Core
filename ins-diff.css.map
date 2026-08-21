@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;3f435504a640c30def9edd475af7acb40c63fc6d1c695780fa8560aeedffc5ed;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/_shared/ins-diff.ts"],
+  "sourcesContent": ["\n    :host { display: inline-flex; align-items: baseline; gap: 6px; font-size: var(--fs-13); line-height: 1.4; min-width: 0; }\n    .df-lb { color: var(--text-sub); font-size: var(--fs-12); flex: none; }\n    .df-before {\n      color: var(--text-soft);\n      text-decoration: line-through; text-decoration-thickness: 1px;\n      overflow: hidden; text-overflow: ellipsis; white-space: nowrap;\n    }\n    .df-arrow { color: var(--text-soft); flex: none; }\n    .df-after { color: var(--text-strong); font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAa,eAAa;AAAU,OAAK;AAAK,aAAW,IAAI;AAAU,eAAa;AAAK,aAAW;AAAG;AACxH,CAAC;AAAQ,SAAO,IAAI;AAAa,aAAW,IAAI;AAAU,QAAM;AAAM;AACtE,CAAC;AACC,SAAO,IAAI;AACX,mBAAiB;AAAc,6BAA2B;AAC1D,YAAU;AAAQ,iBAAe;AAAU,eAAa;AAC1D;AACA,CAAC;AAAW,SAAO,IAAI;AAAc,QAAM;AAAM;AACjD,CAAC;AAAW,SAAO,IAAI;AAAgB,eAAa;AAAK,YAAU;AAAQ,iBAAe;AAAU,eAAa;AAAQ;",
+  "names": []
+}

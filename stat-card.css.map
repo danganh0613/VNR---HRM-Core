@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;2ec35f97c62ed4e06f4029c52f29c6c3c88bb22d8467ed8829b3a100796af232;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-display/stat-card.ts"],
+  "sourcesContent": ["\n    .kpi-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; width: 100%; }\n    .kpi-grid2 { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; width: 100%; }\n  "],
+  "mappings": ";AACI,CAAC;AAAW,WAAS;AAAM,yBAAuB,OAAO,SAAS,EAAE,OAAO,KAAK,EAAE;AAAO,OAAK;AAAM,SAAO;AAAM;AACjH,CAAC;AAAY,WAAS;AAAM,yBAAuB,OAAO,SAAS,EAAE,OAAO,KAAK,EAAE;AAAO,OAAK;AAAM,SAAO;AAAM;",
+  "names": []
+}

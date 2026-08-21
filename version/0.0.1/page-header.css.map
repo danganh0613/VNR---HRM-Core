@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;79661f33892b6456303c8fd95f366cdb73d6a7aa2512445b5452a6b2aaaa162b;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/navigation/page-header.ts"],
+  "sourcesContent": ["\n    .ph-frame {\n      width: 100%;\n      border: 1px solid var(--border-sub);\n      border-radius: var(--radius-xl);\n      background: var(--bg-surface);\n      padding: 4px 16px;\n    }\n    /* N\u00FAt h\u00E0nh \u0111\u1ED9ng (nz-page-header-extra): n\u00FAt ph\u1EE5 c\u00E1ch n\u00FAt ch\u00EDnh 6px. */\n    .ph-frame ::ng-deep .ant-page-header-heading-extra { display: flex; align-items: center; gap: 6px; }\n    .ph-tabs { display: flex; gap: 4px; }\n    .ph-tab {\n      padding: 8px 14px;\n      font-size: var(--fs-14);\n      color: var(--text-sub);\n      border-bottom: 2px solid transparent;\n      cursor: pointer;\n    }\n    .ph-tab.on { color: var(--primary-base); border-bottom-color: var(--primary-base); font-weight: 500; }\n  "],
+  "mappings": ";AACI,CAAC;AACC,SAAO;AACP,UAAQ,IAAI,MAAM,IAAI;AACtB,iBAAe,IAAI;AACnB,cAAY,IAAI;AAChB,WAAS,IAAI;AACf;AAEA,CARC,SAQS,UAAU,CAAC;AAAgC,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAK;AACnG,CAAC;AAAU,WAAS;AAAM,OAAK;AAAK;AACpC,CAAC;AACC,WAAS,IAAI;AACb,aAAW,IAAI;AACf,SAAO,IAAI;AACX,iBAAe,IAAI,MAAM;AACzB,UAAQ;AACV;AACA,CAPC,MAOM,CAAC;AAAK,SAAO,IAAI;AAAiB,uBAAqB,IAAI;AAAiB,eAAa;AAAK;",
+  "names": []
+}

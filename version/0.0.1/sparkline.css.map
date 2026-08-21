@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;83ebf2059455dfe9711c51f538477cdbcdc861204157985e408f42cf3ae388b8;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/chart/sparkline.ts"],
+  "sourcesContent": ["\n    .inline-demo { display: inline-flex; align-items: center; gap: 8px; font-size: var(--fs-14); color: var(--text-body); }\n    .inline-demo b { color: var(--text-strong); }\n  "],
+  "mappings": ";AACI,CAAC;AAAc,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;AACtH,CADC,YACY;AAAI,SAAO,IAAI;AAAgB;",
+  "names": []
+}

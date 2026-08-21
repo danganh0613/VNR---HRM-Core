@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;da8be4df46052e2cd8d1d040c248d703eb6fafaa157c2ad7bbccd027508ea6ed;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/table-cells/hrm-date-cell.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; flex-direction: column; min-width: 0; }\n.dc-main { font-size: var(--fs-14); color: var(--text-strong); line-height: 1.35; font-variant-numeric: tabular-nums;\n  white-space: nowrap; }\n.dc-sub { font-size: var(--fs-12); color: var(--text-sub); line-height: 1.3; white-space: nowrap; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,kBAAgB;AAAQ,aAAW;AAAG;AACpE,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAgB,eAAa;AAAM,wBAAsB;AACtG,eAAa;AAAQ;AACvB,CAAC;AAAS,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,eAAa;AAAK,eAAa;AAAQ;",
+  "names": []
+}

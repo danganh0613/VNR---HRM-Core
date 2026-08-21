@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;9cda5f38d4bfaabe27b625bc3bde3bb370e3c7b099685fbb8c1afacfb26f345b;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/table-cells/text-cell.ts"],
+  "sourcesContent": [".num { display: flex; flex-direction: column; gap: 16px; align-items: flex-end; }"],
+  "mappings": ";AAAA,CAAC;AAAM,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,eAAa;AAAU;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;8af5bd4502e8e883d6b7d7d681f5251b975dea98a3a62a19d0f4ddff6f8355e3;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-display/badge.ts"],
+  "sourcesContent": [".nav-item { display:inline-flex; align-items:center; gap:8px; font-size: var(--fs-14); color:var(--text-body); }"],
+  "mappings": ";AAAA,CAAC;AAAW,WAAQ;AAAa,eAAY;AAAQ,OAAI;AAAK,aAAW,IAAI;AAAU,SAAM,IAAI;AAAc;",
+  "names": []
+}

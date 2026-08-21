@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;0844b4ce333be8d33832e8b8534c9d26a60b9d4a6e36ae55db5ad1cebac83b1e;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/navigation/stepper.ts"],
+  "sourcesContent": ["\n    .wz-body {\n      padding: 20px; border: 1px dashed var(--border-sub); border-radius: var(--radius-lg);\n      font-size: var(--fs-14); color: var(--text-sub); background: var(--bg-surface-subtle);\n    }\n  "],
+  "mappings": ";AACI,CAAC;AACC,WAAS;AAAM,UAAQ,IAAI,OAAO,IAAI;AAAe,iBAAe,IAAI;AACxE,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,cAAY,IAAI;AACnE;",
+  "names": []
+}

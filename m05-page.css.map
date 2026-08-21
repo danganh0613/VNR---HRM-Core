@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f25caf0b3f4b95581518a156a1103025487f7b7c60434708eeedee552dfd2934;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m05-benefits/m05-page.ts"],
+  "sourcesContent": ["\n    :host { display: flex; flex-direction: column; flex: 1 1 auto; min-height: 0; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,QAAM,EAAE,EAAE;AAAM,cAAY;AAAG;",
+  "names": []
+}

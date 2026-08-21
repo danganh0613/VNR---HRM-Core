@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;abf019fc161ef327700eef022fbd9795cdfa8f98e3514fd137e7c40ebf1a637e;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/chart/tracker.ts"],
+  "sourcesContent": ["\n    .col { display: flex; flex-direction: column; gap: 12px; align-items: flex-start; }\n    .trow { display: flex; align-items: center; gap: 12px; }\n    .tname { width: 120px; font-size: var(--fs-13); color: var(--text-body); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }\n  "],
+  "mappings": ";AACI,CAAC;AAAM,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,eAAa;AAAY;AAClF,CAAC;AAAO,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM;AACvD,CAAC;AAAQ,SAAO;AAAO,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc,eAAa;AAAQ,YAAU;AAAQ,iBAAe;AAAU;",
+  "names": []
+}

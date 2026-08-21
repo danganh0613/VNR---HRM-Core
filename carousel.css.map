@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;9295a0121bb0a10cc4c004ddce6475e80e80b2af24837e4a2a57ff413a8e3405;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-display/carousel.ts"],
+  "sourcesContent": [".s { height:120px; display:flex; align-items:center; justify-content:center; color:#fff; border-radius:var(--radius-lg); font-weight:500; }"],
+  "mappings": ";AAAA,CAAC;AAAI,UAAO;AAAO,WAAQ;AAAM,eAAY;AAAQ,mBAAgB;AAAQ,SAAM;AAAM,iBAAc,IAAI;AAAc,eAAY;AAAK;",
+  "names": []
+}

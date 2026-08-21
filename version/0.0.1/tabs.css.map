@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;4e6a17ed65bf6c80612f76654c8645b9fd2cff24f81e7fc5d55055a8f584abd6;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/navigation/tabs.ts"],
+  "sourcesContent": ["\n    .tb { padding:12px 4px; color:var(--text-body); font-size: var(--fs-14); }\n    .tabbar { display:flex; gap:4px; border-bottom:1px solid var(--border-sub); }\n    .tabbtn {\n      display:inline-flex; align-items:center; gap:8px; cursor:pointer;\n      border:0; background:transparent; padding:8px 14px; margin-bottom:-1px;\n      border-bottom:2px solid transparent; border-radius:var(--radius-md) var(--radius-md) 0 0;\n      font-family:var(--font-sans); font-size: var(--fs-14); font-weight:500; color:var(--text-sub);\n    }\n    .tabbtn:hover { color:var(--text-strong); background:var(--bg-surface-subtle); }\n    .tabbtn.on { color:var(--primary-base); border-bottom-color:var(--primary-base); }\n  "],
+  "mappings": ";AACI,CAAC;AAAK,WAAQ,KAAK;AAAK,SAAM,IAAI;AAAc,aAAW,IAAI;AAAU;AACzE,CAAC;AAAS,WAAQ;AAAM,OAAI;AAAK,iBAAc,IAAI,MAAM,IAAI;AAAe;AAC5E,CAAC;AACC,WAAQ;AAAa,eAAY;AAAQ,OAAI;AAAK,UAAO;AACzD,UAAO;AAAG,cAAW;AAAa,WAAQ,IAAI;AAAM,iBAAc;AAClE,iBAAc,IAAI,MAAM;AAAa,iBAAc,IAAI,aAAa,IAAI,aAAa,EAAE;AACvF,eAAY,IAAI;AAAc,aAAW,IAAI;AAAU,eAAY;AAAK,SAAM,IAAI;AACpF;AACA,CANC,MAMM;AAAS,SAAM,IAAI;AAAgB,cAAW,IAAI;AAAsB;AAC/E,CAPC,MAOM,CAAC;AAAK,SAAM,IAAI;AAAiB,uBAAoB,IAAI;AAAiB;",
+  "names": []
+}

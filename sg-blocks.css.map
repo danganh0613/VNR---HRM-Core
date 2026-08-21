@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;46e8508c89b12c83904bdaeec5e5f3b5cd3138722e244769c327028c5524a379;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/doc/sg-blocks.ts"],
+  "sourcesContent": [".bp { display:flex; gap:10px; padding:12px 14px; border-radius:var(--radius-lg); font-size: var(--fs-14); line-height:1.5; margin-bottom:8px; }\n    .bp-do { background: var(--success-bg); border: 1px solid var(--success-border); color: var(--success-text); }\n    :host-context(.dark) .bp-do { background: var(--success-bg-dark); border-color: var(--success-border-dark); color: var(--success-text-dark); }\n    .bp-tag { font-size: var(--fs-11); font-weight:700; padding:2px 6px; border-radius:var(--radius-xs); height:fit-content; background:var(--success-base); color:var(--text-on-primary); }"],
+  "mappings": ";AAAA,CAAC;AAAK,WAAQ;AAAM,OAAI;AAAM,WAAQ,KAAK;AAAM,iBAAc,IAAI;AAAc,aAAW,IAAI;AAAU,eAAY;AAAK,iBAAc;AAAK;AAC1I,CAAC;AAAQ,cAAY,IAAI;AAAe,UAAQ,IAAI,MAAM,IAAI;AAAmB,SAAO,IAAI;AAAiB;AAC7G,cAAc,CAAC,MAAM,CADpB;AAC6B,cAAY,IAAI;AAAoB,gBAAc,IAAI;AAAwB,SAAO,IAAI;AAAsB;AAC7I,CAAC;AAAS,aAAW,IAAI;AAAU,eAAY;AAAK,WAAQ,IAAI;AAAK,iBAAc,IAAI;AAAc,UAAO;AAAa,cAAW,IAAI;AAAiB,SAAM,IAAI;AAAoB;",
+  "names": []
+}

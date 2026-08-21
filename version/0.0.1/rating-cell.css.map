@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;64b37c3b65b9958fe7af5ff8565d208752985a1610f992015853471dd0c65207;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/table-cells/rating-cell.ts"],
+  "sourcesContent": [".col { display: flex; flex-direction: column; gap: 16px; align-items: flex-start; }"],
+  "mappings": ";AAAA,CAAC;AAAM,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,eAAa;AAAY;",
+  "names": []
+}

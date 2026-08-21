@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;1e77bdc885ce4d835989e26041c844174b557086c048b2dd67405eb4ab60c77c;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/table-list/record.ts"],
+  "sourcesContent": ["\n    :host { display: block; }\n    .rec { max-width: 920px; margin: 0 auto; padding: 8px 4px; }\n    .rec-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 16px; }\n    .rec-crumb { font-size: var(--fs-13); color: var(--text-soft); }\n    .rec-card { padding: 24px; background: var(--bg-surface); border: 1px solid var(--border-sub); border-radius: var(--radius-xl); }\n    .rec-empty { padding: 40px; text-align: center; color: var(--text-sub); }\n    .rec-empty a { color: var(--primary-base); cursor: pointer; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAO;AACxB,CAAC;AAAM,aAAW;AAAO,UAAQ,EAAE;AAAM,WAAS,IAAI;AAAK;AAC3D,CAAC;AAAU,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,iBAAe;AAAM;AAC/E,CAAC;AAAY,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;AAC/D,CAAC;AAAW,WAAS;AAAM,cAAY,IAAI;AAAe,UAAQ,IAAI,MAAM,IAAI;AAAe,iBAAe,IAAI;AAAc;AAChI,CAAC;AAAY,WAAS;AAAM,cAAY;AAAQ,SAAO,IAAI;AAAa;AACxE,CADC,UACU;AAAI,SAAO,IAAI;AAAiB,UAAQ;AAAS;",
+  "names": []
+}

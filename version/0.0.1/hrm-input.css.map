@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;ada727fb6327392aec1a3937ef8f1584487f81fe03beeac1b45849ea62aad629;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-entry/hrm-input.ts"],
+  "sourcesContent": ["\n.hrm-input-pre { color: var(--icon-secondary, var(--text-sub)); display: inline-flex; }\n.hrm-input-clear {\n  display: inline-flex; align-items: center; justify-content: center;\n  border: 0; padding: 0; background: transparent; cursor: pointer;\n  color: var(--icon-secondary, var(--text-sub)); border-radius: var(--radius-sm);\n}\n.hrm-input-clear:hover { color: var(--text-strong); }\n  "],
+  "mappings": ";AACA,CAAC;AAAgB,SAAO,IAAI,gBAAgB,EAAE,IAAI;AAAc,WAAS;AAAa;AACtF,CAAC;AACC,WAAS;AAAa,eAAa;AAAQ,mBAAiB;AAC5D,UAAQ;AAAG,WAAS;AAAG,cAAY;AAAa,UAAQ;AACxD,SAAO,IAAI,gBAAgB,EAAE,IAAI;AAAc,iBAAe,IAAI;AACpE;AACA,CALC,eAKe;AAAS,SAAO,IAAI;AAAgB;",
+  "names": []
+}

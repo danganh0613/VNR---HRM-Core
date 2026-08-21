@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;67b92999d66c8b68f8cacb846dd2bb3b1d8e580ad7e1402e7bb97536b27abb9b;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/grid/grouped.ts"],
+  "sourcesContent": [":host ::ng-deep tr.grp td { background: var(--bg-surface-subtle); color: var(--text-strong); font-size: var(--fs-13); }"],
+  "mappings": ";AAAA,MAAM,UAAU,EAAE,CAAC,IAAI;AAAK,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAgB,aAAW,IAAI;AAAU;",
+  "names": []
+}

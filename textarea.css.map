@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;cf5b42346872b191137017d07b4646e75c34d9a413cbfc39badc8fc405958c5b;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-entry/textarea.ts"],
+  "sourcesContent": ["\n    .ta-iconlabel {\n      display: inline-flex; align-items: center; gap: 6px;\n      margin-bottom: var(--space-1-5, 6px);\n      font-size: var(--fs-14); font-weight: 500; color: var(--text-strong);\n    }\n    .ta-iconlabel tabler-icon { color: var(--icon-secondary, var(--text-sub)); }\n  "],
+  "mappings": ";AACI,CAAC;AACC,WAAS;AAAa,eAAa;AAAQ,OAAK;AAChD,iBAAe,IAAI,WAAW,EAAE;AAChC,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AACxD;AACA,CALC,aAKa;AAAc,SAAO,IAAI,gBAAgB,EAAE,IAAI;AAAc;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;5146e927bb860066cbb37fd106cae3d184c183f46e33255c66f0cb9928b05805;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/styleguide-shell.ts"],
+  "sourcesContent": ["\n    :host { display: block; height: 100vh; color: var(--text-body); font-family: var(--font-sans); }\n\n    /* Side nav dogfood: logo VnResource qua [logoSrc] c\u1EE7a component; cho ph\u1EA7n nav cu\u1ED9n. */\n    :host ::ng-deep hrm-side-nav .sn { overflow-y: auto; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAO,UAAQ;AAAO,SAAO,IAAI;AAAc,eAAa,IAAI;AAAc;AAG/F,MAAM,UAAU,aAAa,CAAC;AAAK,cAAY;AAAM;",
+  "names": []
+}

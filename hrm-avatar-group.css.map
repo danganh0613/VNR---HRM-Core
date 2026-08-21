@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;be988734b48e0e47b531df8627afa75223e331faeb5d2e6aae70fc8587ac6e79;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-display/hrm-avatar-group.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; align-items: center; }\n.ag-item + .ag-item { margin-left: -10px; }\n:host(.hrm-avatar-group--compact) .ag-item + .ag-item { margin-left: -8px; }\n/* V\u00F2ng vi\u1EC1n m\u00E0u n\u1EC1n quanh m\u1ED7i avatar \u0111\u1EC3 t\u00E1ch l\u1EDBp khi ch\u1ED3ng m\u00E9p. */\n.ag-item ::ng-deep .ant-avatar { box-shadow: 0 0 0 2px var(--bg-surface); }\n.ag-more ::ng-deep .ant-avatar { background: var(--bg-surface-subtle); color: var(--text-sub); }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,eAAa;AAAQ;AACnD,CAAC,QAAQ,EAAE,CAAV;AAAqB,eAAa;AAAO;AAC1C,MAAM,CAAC,2BAA2B,CADjC,QAC0C,EAAE,CAD5C;AACuD,eAAa;AAAM;AAE3E,CAHC,QAGQ,UAAU,CAAC;AAAa,cAAY,EAAE,EAAE,EAAE,IAAI,IAAI;AAAe;AAC1E,CAAC,QAAQ,UAAU,CADC;AACa,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAa;",
+  "names": []
+}

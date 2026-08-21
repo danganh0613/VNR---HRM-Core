@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;c574e92d98db99d6d3538a7bc228282fbead3626066f7f76656ee3c343833818;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/overlays/hover-card.ts"],
+  "sourcesContent": ["\n    .hv-line { font-size: var(--fs-14); color: var(--text-body); }\n    .hv-name { color: var(--primary-base); cursor: pointer; font-weight: 500; }\n    .hv-name:hover { text-decoration: underline; }\n    .hv-card { display: flex; flex-direction: column; gap: 10px; width: 240px; }\n    .hv-top { display: flex; align-items: center; gap: 10px; }\n    .hv-t1 { font-size: var(--fs-14); font-weight: 600; color: var(--text-strong); }\n    .hv-t2 { font-size: var(--fs-12); color: var(--text-sub); }\n    .hv-meta { font-size: var(--fs-12); color: var(--text-sub); }\n  "],
+  "mappings": ";AACI,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;AAC7D,CAAC;AAAU,SAAO,IAAI;AAAiB,UAAQ;AAAS,eAAa;AAAK;AAC1E,CADC,OACO;AAAS,mBAAiB;AAAW;AAC7C,CAAC;AAAU,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,SAAO;AAAO;AAC3E,CAAC;AAAS,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM;AACzD,CAAC;AAAQ,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAgB;AAC/E,CAAC;AAAQ,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AAC1D,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;01c0b7046959ab133854396a38abcf8dd878430f3fd43d63af2011ff973a239a;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/sg-cursor.ts"],
+  "sourcesContent": ["\n    :host { display: contents; }\n    .fc { position: fixed; top: 0; left: 0; z-index: 2147483000; width: 100%; height: 100%; pointer-events: none; }\n    .fc-canvas { display: block; width: 100vw; height: 100vh; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAU;AAC3B,CAAC;AAAK,YAAU;AAAO,OAAK;AAAG,QAAM;AAAG,WAAS;AAAY,SAAO;AAAM,UAAQ;AAAM,kBAAgB;AAAM;AAC9G,CAAC;AAAY,WAAS;AAAO,SAAO;AAAO,UAAQ;AAAO;",
+  "names": []
+}

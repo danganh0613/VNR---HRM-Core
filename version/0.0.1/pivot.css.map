@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;96bb22962dce181050de4f9acfe8b3f43571e68ce0f4e1942223968eb1f06036;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/grid/pivot.ts"],
+  "sourcesContent": ["\n    .pv { border-collapse: collapse; font-size: var(--fs-13); min-width: 480px; }\n    .pv th, .pv td { border: 1px solid var(--border-sub); padding: 8px 14px; text-align: right; color: var(--text-body); }\n    .pv thead th { background: var(--bg-surface-subtle); color: var(--text-strong); font-weight: 600; text-align: right; }\n    .pv .pv-corner, .pv .pv-row { text-align: left; background: var(--bg-surface-subtle); color: var(--text-strong); font-weight: 600; }\n    .pv .pv-tot { background: var(--primary-bg-subtle); color: var(--primary-base); font-weight: 600; }\n    .pv .pv-total th, .pv .pv-total td { background: var(--bg-surface-muted); color: var(--text-strong); font-weight: 600; }\n  "],
+  "mappings": ";AACI,CAAC;AAAK,mBAAiB;AAAU,aAAW,IAAI;AAAU,aAAW;AAAO;AAC5E,CADC,GACG;AAAI,CADP,GACW;AAAK,UAAQ,IAAI,MAAM,IAAI;AAAe,WAAS,IAAI;AAAM,cAAY;AAAO,SAAO,IAAI;AAAc;AACrH,CAFC,GAEG,MAAM;AAAK,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAgB,eAAa;AAAK,cAAY;AAAO;AACrH,CAHC,GAGG,CAAC;AAAW,CAHf,GAGmB,CAAC;AAAS,cAAY;AAAM,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAgB,eAAa;AAAK;AACnI,CAJC,GAIG,CAAC;AAAS,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAiB,eAAa;AAAK;AAClG,CALC,GAKG,CAAC,SAAS;AAAI,CALjB,GAKqB,CAAjB,SAA2B;AAAK,cAAY,IAAI;AAAqB,SAAO,IAAI;AAAgB,eAAa;AAAK;",
+  "names": []
+}

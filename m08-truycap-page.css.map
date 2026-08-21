@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;9e4e13adc4bc5681a98de316a9ca0654c5b5effdd78ae66f31c2ac44e6ab31ad;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m08-config/m08-truycap-page.ts"],
+  "sourcesContent": ["\n    :host { display: flex; flex-direction: column; gap: 10px; }\n    .a-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }\n    .a-kw { display: inline-block; width: 280px; }\n    .a-loai { display: inline-block; width: 240px; }\n    .a-gap { flex: 1; }\n    .a-note { margin: 0; font-size: var(--fs-11); color: var(--text-soft); }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM;AAC1D,CAAC;AAAS,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,aAAW;AAAM;AAC1E,CAAC;AAAO,WAAS;AAAc,SAAO;AAAO;AAC7C,CAAC;AAAS,WAAS;AAAc,SAAO;AAAO;AAC/C,CAAC;AAAQ,QAAM;AAAG;AAClB,CAAC;AAAS,UAAQ;AAAG,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;",
+  "names": []
+}

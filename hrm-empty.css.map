@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;6aa0806e545839222bd041602d93f4a9318a34b2bb8b63d869448292716cbd77;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-display/hrm-empty.ts"],
+  "sourcesContent": ["\n.he-ic {\n  display: inline-grid; place-items: center; width: 72px; height: 72px;\n  border-radius: var(--radius-full); background: var(--bg-surface-subtle); color: var(--icon-secondary);\n}\n.he-ic[data-preset='error'] { background: var(--error-bg); color: var(--error-base); }\n.he-ic[data-preset='first-use'] { background: var(--primary-bg-subtle); color: var(--primary-base); }\n  "],
+  "mappings": ";AACA,CAAC;AACC,WAAS;AAAa,eAAa;AAAQ,SAAO;AAAM,UAAQ;AAChE,iBAAe,IAAI;AAAgB,cAAY,IAAI;AAAsB,SAAO,IAAI;AACtF;AACA,CAJC,KAIK,CAAC;AAAuB,cAAY,IAAI;AAAa,SAAO,IAAI;AAAe;AACrF,CALC,KAKK,CAAC;AAA2B,cAAY,IAAI;AAAsB,SAAO,IAAI;AAAiB;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;b7bfa6074baf2230910881127c5169e33446f458880d32e18607e2a40a597ff5;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/template/_form-ds.ts"],
+  "sourcesContent": ["\n    .vnr-ap { display: flex; flex-direction: column; gap: var(--space-2-5, 10px); }\n    .vnr-ap__warns { display: flex; flex-direction: column; gap: var(--space-1-5, 6px); }\n    .vnr-ap__im { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-2, 8px); }\n    .vnr-ap__im .t { font-size: var(--fs-11, 11px); font-weight: var(--font-semibold, 600); text-transform: uppercase;\n      letter-spacing: .3px; color: var(--text-soft); }\n    .vnr-ap__im .chip { font-size: var(--fs-11, 11px); font-weight: var(--font-medium, 500); color: var(--info-base);\n      background: var(--info-bg); border-radius: var(--radius-full); padding: 3px 10px; }\n  "],
+  "mappings": ";AACI,CAAC;AAAS,WAAS;AAAM,kBAAgB;AAAQ,OAAK,IAAI,WAAW,EAAE;AAAO;AAC9E,CAAC;AAAgB,WAAS;AAAM,kBAAgB;AAAQ,OAAK,IAAI,WAAW,EAAE;AAAM;AACpF,CAAC;AAAa,WAAS;AAAM,aAAW;AAAM,eAAa;AAAQ,OAAK,IAAI,SAAS,EAAE;AAAM;AAC7F,CADC,WACW,CAAC;AAAI,aAAW,IAAI,OAAO,EAAE;AAAO,eAAa,IAAI,eAAe,EAAE;AAAM,kBAAgB;AACtG,kBAAgB;AAAM,SAAO,IAAI;AAAc;AACjD,CAHC,WAGW,CAAC;AAAO,aAAW,IAAI,OAAO,EAAE;AAAO,eAAa,IAAI,aAAa,EAAE;AAAM,SAAO,IAAI;AAClG,cAAY,IAAI;AAAY,iBAAe,IAAI;AAAgB,WAAS,IAAI;AAAM;",
+  "names": []
+}

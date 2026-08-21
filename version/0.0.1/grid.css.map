@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;098e944c184bdc8c74704d9098379ce82d38e22274f5c6d3c6455dc87d3fb6a8;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/enterprise/grid.ts"],
+  "sourcesContent": ["\n    .dv-cap { margin: 0 0 6px; font-size: var(--fs-12); font-weight: 600; color: var(--text-sub); text-transform: uppercase; letter-spacing: .03em; }\n  "],
+  "mappings": ";AACI,CAAC;AAAS,UAAQ,EAAE,EAAE;AAAK,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAa,kBAAgB;AAAW,kBAAgB;AAAO;",
+  "names": []
+}

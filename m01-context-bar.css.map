@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;feebed4e910bb48626203d247578d684b17f0ba14edd46a889220fe393a818db;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m01-dashboard/m01-context-bar.ts"],
+  "sourcesContent": ["\n    :host { display: flex; flex-direction: column; gap: 6px; }\n    .c1 { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }\n    .c1-ky { width: 210px; }\n    .c1-dv { width: 300px; }\n    .c1-dot { width: 190px; }\n    .c1-trangthai { display: inline-flex; align-items: center; gap: 7px; font-size: var(--fs-12); color: var(--text-sub); }\n    .c1-gap { flex: 1; }\n    .c1-meta { font-size: var(--fs-11); color: var(--text-soft); }\n    .c1-quyen { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }\n    .c1-sw { display: inline-flex; align-items: center; gap: 7px; font-size: var(--fs-12); color: var(--text-sub); }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAK;AACzD,CAAC;AAAK,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,aAAW;AAAM;AACtE,CAAC;AAAQ,SAAO;AAAO;AACvB,CAAC;AAAQ,SAAO;AAAO;AACvB,CAAC;AAAS,SAAO;AAAO;AACxB,CAAC;AAAe,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AACtH,CAAC;AAAS,QAAM;AAAG;AACnB,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;AAC7D,CAAC;AAAW,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,aAAW;AAAM;AAC5E,CAAC;AAAQ,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;",
+  "names": []
+}

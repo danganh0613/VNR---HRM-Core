@@ -1,0 +1,7 @@
+{
+  "current": "0.0.2-dev",
+  "versions": [
+    { "version": "0.0.2-dev", "url": "/", "label": "0.0.2-dev", "tag": "latest" },
+    { "version": "0.0.1", "url": "/version/0.0.1/", "label": "0.0.1" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["apps/ds-demo/src/app/features/styleguide/pages/hrm/chart/chart-period.ts"],
+  "sourcesContent": ["import { HrmOption } from 'hrm-ui';\n\n/** Dropdown chọn kỳ dùng chung cho header các thẻ chart (hrm-select). */\nexport const CHART_PERIOD_OPTS: HrmOption[] = [\n  { label: 'Theo tuần', value: 'week' },\n  { label: 'Theo tháng', value: 'month' },\n  { label: 'Theo quý', value: 'quarter' },\n];\n"],
+  "mappings": ";AAGO,IAAM,oBAAiC;EAC5C,EAAE,OAAO,kBAAa,OAAO,OAAM;EACnC,EAAE,OAAO,iBAAc,OAAO,QAAO;EACrC,EAAE,OAAO,eAAY,OAAO,UAAS;;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;ef5fb6d8faa992c8808ef3b1da26f498a86d034f114dbdbde738e27c61806191;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/table-cells/hrm-rating-cell.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; align-items: center; gap: 6px; }\n.rc-stars { display: inline-flex; align-items: center; gap: 1px; color: var(--text-disabled); }\n.rc-star.rc-on { color: var(--yellow-500); }\n.rc-val { font-size: var(--fs-13); font-weight: 500; color: var(--text-strong); font-variant-numeric: tabular-nums; }\n.rc-count { font-size: var(--fs-12); color: var(--text-sub); }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK;AAC7D,CAAC;AAAW,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,SAAO,IAAI;AAAkB;AAC9F,CAAC,OAAO,CAAC;AAAQ,SAAO,IAAI;AAAe;AAC3C,CAAC;AAAS,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAgB,wBAAsB;AAAc;AACpH,CAAC;AAAW,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;",
+  "names": []
+}

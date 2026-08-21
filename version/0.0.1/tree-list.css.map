@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;ea8a6dcc4a3cf844828d9603b331984ed09357a7981709e113ad804c47434ef2;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/enterprise/tree-list.ts"],
+  "sourcesContent": ["\n    .tl-toggle { display:grid; place-items:center; width:20px; height:20px; border:0; background:transparent; cursor:pointer; color:var(--text-sub); border-radius:var(--radius-sm); }\n    .tl-toggle:hover { background:var(--bg-surface-subtle); color:var(--text-strong); }\n    .tl-toggle tabler-icon { transition: transform var(--duration-fast,.15s) var(--ease-out,ease); }\n    .tl-toggle.open tabler-icon { transform: rotate(90deg); }\n    .tl-dot { width:20px; display:inline-block; }\n  "],
+  "mappings": ";AACI,CAAC;AAAY,WAAQ;AAAM,eAAY;AAAQ,SAAM;AAAM,UAAO;AAAM,UAAO;AAAG,cAAW;AAAa,UAAO;AAAS,SAAM,IAAI;AAAa,iBAAc,IAAI;AAAc;AACjL,CADC,SACS;AAAS,cAAW,IAAI;AAAsB,SAAM,IAAI;AAAgB;AAClF,CAFC,UAEU;AAAc,cAAY,UAAU,IAAI,eAAe,CAAC,MAAM,IAAI,UAAU,CAAC;AAAO;AAC/F,CAHC,SAGS,CAAC,KAAK;AAAc,aAAW,OAAO;AAAQ;AACxD,CAAC;AAAS,SAAM;AAAM,WAAQ;AAAc;",
+  "names": []
+}

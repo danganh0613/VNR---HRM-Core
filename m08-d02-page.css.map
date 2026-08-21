@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;9cc90b02e6b289dfc1585299fce39ccad470423bf1af07947f7728645628affb;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m08-config/m08-d02-page.ts"],
+  "sourcesContent": ["\n    :host { display: flex; flex-direction: column; gap: 10px; }\n    .d-head { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }\n    .d-muted { font-size: var(--fs-12); color: var(--text-sub); }\n    .d-warn { font-size: var(--fs-11); color: var(--warning-text); font-weight: 500; }\n    .d-err { font-size: var(--fs-11); color: var(--error-text); font-weight: 500; max-width: 240px; }\n    .d-mono { font-family: var(--font-mono, monospace); font-size: var(--fs-12); font-weight: 700; color: var(--text-strong); }\n    .d-strong { color: var(--text-strong); font-weight: 500; }\n    .d-stack { display: flex; flex-direction: column; gap: 2px; align-items: flex-start; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM;AAC1D,CAAC;AAAS,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,aAAW;AAAM;AAC1E,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AAC5D,CAAC;AAAS,aAAW,IAAI;AAAU,SAAO,IAAI;AAAiB,eAAa;AAAK;AACjF,CAAC;AAAQ,aAAW,IAAI;AAAU,SAAO,IAAI;AAAe,eAAa;AAAK,aAAW;AAAO;AAChG,CAAC;AAAS,eAAa,IAAI,WAAW,EAAE;AAAY,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAgB;AAC1H,CAAC;AAAW,SAAO,IAAI;AAAgB,eAAa;AAAK;AACzD,CAAC;AAAU,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAK,eAAa;AAAY;",
+  "names": []
+}

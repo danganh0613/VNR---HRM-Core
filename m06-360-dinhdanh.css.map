@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f948e32086ae95875bde5ae2c24cc2fe5d42285ba9a1cf4f83190c106f9c31b5;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m06-records/profile-360/m06-360-dinhdanh.ts"],
+  "sourcesContent": ["\n    :host { display: block; max-width: 860px; }\n    .dd-wrap { display: flex; flex-direction: column; gap: 10px; }\n    .dd-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }\n    .dd-note { margin: 0; font-size: var(--fs-12); color: var(--text-sub); }\n    .dd-note b { color: var(--text-strong); }\n    .dd-form { display: flex; flex-direction: column; gap: 10px; }\n    .dd-field { display: flex; flex-direction: column; gap: 4px; font-size: var(--fs-12); color: var(--text-sub); }\n    .dd-err { font-size: var(--fs-12); color: var(--error-text); font-weight: 500; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAO,aAAW;AAAO;AAC1C,CAAC;AAAU,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM;AAC7D,CAAC;AAAU,WAAS;AAAM,eAAa;AAAQ,mBAAiB;AAAe,OAAK;AAAM;AAC1F,CAAC;AAAU,UAAQ;AAAG,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AACvE,CADC,QACQ;AAAI,SAAO,IAAI;AAAgB;AACxC,CAAC;AAAU,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM;AAC7D,CAAC;AAAW,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AAC9G,CAAC;AAAS,aAAW,IAAI;AAAU,SAAO,IAAI;AAAe,eAAa;AAAK;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;01eaac399d700278f2bf8d47e7307b13d8dfabf84b2dc54b602f8088b4d6fce1;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/table-cells/status-cell.ts"],
+  "sourcesContent": ["\n    .col { display: flex; flex-direction: column; gap: 16px; align-items: flex-start; }\n    /* B\u1EA3ng tr\u1EA1ng th\u00E1i h\u1EC7 th\u1ED1ng: m\u1ED7i h\u00E0ng = chip tr\u1EA1ng th\u00E1i + c\u1EE5m n\u00FAt h\u00E0nh \u0111\u1ED9ng. */\n    .wf { display: flex; flex-direction: column; gap: var(--space-3); }\n    .wf-row { display: flex; align-items: center; gap: var(--space-4); flex-wrap: wrap; }\n    .wf-st { flex: none; width: 160px; }\n    .wf-end { font-size: var(--fs-12); color: var(--text-sub); font-style: italic; }\n    .wf-log { margin-top: var(--space-3); font-size: var(--fs-13); color: var(--text-sub); }\n    .wf-log code { color: var(--primary-base); font-weight: 600; }\n  "],
+  "mappings": ";AACI,CAAC;AAAM,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,eAAa;AAAY;AAElF,CAAC;AAAK,WAAS;AAAM,kBAAgB;AAAQ,OAAK,IAAI;AAAY;AAClE,CAAC;AAAS,WAAS;AAAM,eAAa;AAAQ,OAAK,IAAI;AAAY,aAAW;AAAM;AACpF,CAAC;AAAQ,QAAM;AAAM,SAAO;AAAO;AACnC,CAAC;AAAS,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,cAAY;AAAQ;AAC/E,CAAC;AAAS,cAAY,IAAI;AAAY,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AACvF,CADC,OACO;AAAO,SAAO,IAAI;AAAiB,eAAa;AAAK;",
+  "names": []
+}

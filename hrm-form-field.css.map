@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;85bff07a4206ffd61c7a8d0fb75894deeb5fecfb6313f9371bfef97fa5ac2079;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/data-entry/hrm-form-field.ts"],
+  "sourcesContent": ["\n:host { display: block; margin-bottom: var(--space-4); }\n.ff-label { display: block; margin-bottom: var(--space-1-5); font-size: var(--fs-14); font-weight: 500; color: var(--text-strong); }\n.ff-req { color: var(--error-base); margin-left: 2px; }\n.ff-opt { margin-left: var(--space-1-5); font-size: var(--fs-12); font-weight: 400; color: var(--text-sub); }\n.ff-error { margin-top: var(--space-1); font-size: var(--fs-12); color: var(--error-base); }\n.ff-help { margin-top: var(--space-1); font-size: var(--fs-12); color: var(--text-sub); }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAO,iBAAe,IAAI;AAAY;AACvD,CAAC;AAAW,WAAS;AAAO,iBAAe,IAAI;AAAc,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAgB;AACnI,CAAC;AAAS,SAAO,IAAI;AAAe,eAAa;AAAK;AACtD,CAAC;AAAS,eAAa,IAAI;AAAc,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAa;AAC5G,CAAC;AAAW,cAAY,IAAI;AAAY,aAAW,IAAI;AAAU,SAAO,IAAI;AAAe;AAC3F,CAAC;AAAU,cAAY,IAAI;AAAY,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;",
+  "names": []
+}

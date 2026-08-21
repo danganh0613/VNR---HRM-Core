@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;f7a9b052302383ec9822a0a80823d2852335effbcebd69687e69267fec0290ac;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/overlays/command-palette.ts"],
+  "sourcesContent": ["\n    .kbd-hint { display: inline-flex; align-items: center; gap: 4px; font-size: var(--fs-13); color: var(--text-sub); }\n    kbd {\n      font-family: var(--font-sans); font-size: var(--fs-12); color: var(--text-body);\n      background: var(--bg-surface-subtle); border: 1px solid var(--border-sub);\n      border-bottom-width: 2px; border-radius: var(--radius-sm); padding: 1px 6px;\n    }\n  "],
+  "mappings": ";AACI,CAAC;AAAW,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AAClH;AACE,eAAa,IAAI;AAAc,aAAW,IAAI;AAAU,SAAO,IAAI;AACnE,cAAY,IAAI;AAAsB,UAAQ,IAAI,MAAM,IAAI;AAC5D,uBAAqB;AAAK,iBAAe,IAAI;AAAc,WAAS,IAAI;AAC1E;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;2c69b0592d17890955f13a04b51deed4e9d4ef171c03bef9c294d902e05f4451;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m08-config/m08-gon-pages.ts"],
+  "sourcesContent": ["\n    :host { display: flex; flex-direction: column; gap: 7px; }\n    .o-node { display: flex; align-items: center; gap: 9px; flex-wrap: wrap; border: 1px solid var(--border-sub); border-radius: var(--radius-md); background: var(--bg-surface); padding: 6px 10px; }\n    .o-strong { color: var(--text-strong); font-weight: 500; font-size: var(--fs-13); }\n    .o-muted { font-size: var(--fs-12); color: var(--text-sub); }\n    .o-muted b { color: var(--text-strong); }\n    .o-note { margin: 0; font-size: var(--fs-11); color: var(--text-soft); }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAK;AACzD,CAAC;AAAS,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAK,aAAW;AAAM,UAAQ,IAAI,MAAM,IAAI;AAAe,iBAAe,IAAI;AAAc,cAAY,IAAI;AAAe,WAAS,IAAI;AAAM;AACjM,CAAC;AAAW,SAAO,IAAI;AAAgB,eAAa;AAAK,aAAW,IAAI;AAAU;AAClF,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AAC5D,CADC,QACQ;AAAI,SAAO,IAAI;AAAgB;AACxC,CAAC;AAAS,UAAQ;AAAG,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;",
+  "names": []
+}

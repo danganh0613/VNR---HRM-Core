@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;8a1579f514cf2db739ab0585e24061e8458c065e568d3152c4efc9858ec8b470;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/table-cells/hrm-tags-cell.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; align-items: center; gap: 4px; flex-wrap: nowrap; min-width: 0; max-width: 100%; }\n/* nz-tag m\u1EB7c \u0111\u1ECBnh margin-inline-end 8px \u2192 kh\u1EED \u0111\u1EC3 kho\u1EA3ng c\u00E1ch ch\u1EC9 do gap 4px \u0111i\u1EC1u khi\u1EC3n. */\n:host ::ng-deep .ant-tag { margin: 0; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW;AAAQ,aAAW;AAAG,aAAW;AAAM;AAE/G,MAAM,UAAU,CAAC;AAAU,UAAQ;AAAG;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;353a3160aa5152e5adcf2195f9b2425341a9473a170760f095b743d5143f8817;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feedback/spin.ts"],
+  "sourcesContent": ["\n    /* V\u00ED d\u1EE5 \"tr\u00EAn n\u1EC1n t\u1ED1i\": \u0111\u1ED5i m\u00E0u ch\u1EA5m xoay sang tr\u1EAFng trong ph\u1EA1m vi kh\u1ED1i n\u1EC1n t\u1ED1i (ch\u1EC9 minh h\u1ECDa demo). */\n    .spin-on-media ::ng-deep .ant-spin-dot-item { background: #ffffff; }\n  "],
+  "mappings": ";AAEI,CAAC,cAAc,UAAU,CAAC;AAAoB,cAAY;AAAS;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;dbe8902666d3ba29e3d85e33500b0370a61d35e79f40ac28f132199ddfc46e89;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/_shared/ins-variance-cell.ts"],
+  "sourcesContent": ["\n    :host { display: inline-flex; align-items: baseline; gap: 8px; font-variant-numeric: tabular-nums; min-width: 0; }\n    .vc-pair { display: inline-flex; align-items: baseline; gap: 5px; font-size: var(--fs-12); color: var(--text-sub); }\n    .vc-num { white-space: nowrap; }\n    .vc-num--actual { color: var(--text-strong); font-weight: 600; }\n    .vc-arrow { color: var(--text-soft); }\n    .vc-diff { font-size: var(--fs-13); font-weight: 700; white-space: nowrap; }\n    .vc-diff[data-tone='up'] { color: var(--error-base); }\n    .vc-diff[data-tone='down'] { color: var(--success-base); }\n    .vc-diff[data-tone='zero'] { color: var(--text-sub); }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAa,eAAa;AAAU,OAAK;AAAK,wBAAsB;AAAc,aAAW;AAAG;AACjH,CAAC;AAAU,WAAS;AAAa,eAAa;AAAU,OAAK;AAAK,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa;AACnH,CAAC;AAAS,eAAa;AAAQ;AAC/B,CAAC;AAAiB,SAAO,IAAI;AAAgB,eAAa;AAAK;AAC/D,CAAC;AAAW,SAAO,IAAI;AAAc;AACrC,CAAC;AAAU,aAAW,IAAI;AAAU,eAAa;AAAK,eAAa;AAAQ;AAC3E,CADC,OACO,CAAC;AAAkB,SAAO,IAAI;AAAe;AACrD,CAFC,OAEO,CAAC;AAAoB,SAAO,IAAI;AAAiB;AACzD,CAHC,OAGO,CAAC;AAAoB,SAAO,IAAI;AAAa;",
+  "names": []
+}

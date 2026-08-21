@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;c30383d5d2802310592e9461d8c72b6c2534605d11c14eaf26328b0c836312fa;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-entry/filter-panel.ts"],
+  "sourcesContent": ["\n    /* C\u1EE5m filter tr\u00EAn toolbar \u2014 gap 8px s\u00E1t nhau (chu\u1EA9n filter group), kh\u00F4ng d\u00F9ng gap 12px c\u1EE7a sg-row. */\n    .tb { display: inline-flex; flex-wrap: wrap; align-items: center; gap: 8px; }\n    .dm-note { margin: 10px 0 0; font-size: var(--fs-12); color: var(--text-soft); }\n  "],
+  "mappings": ";AAEI,CAAC;AAAK,WAAS;AAAa,aAAW;AAAM,eAAa;AAAQ,OAAK;AAAK;AAC5E,CAAC;AAAU,UAAQ,KAAK,EAAE;AAAG,aAAW,IAAI;AAAU,SAAO,IAAI;AAAc;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;793162522366f887e1c3320c769483462e59cc21f5370c45e3e21ae643d9e44d;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/typography.ts"],
+  "sourcesContent": ["\n    .rows { display: flex; flex-direction: column; }\n    .row {\n      display: flex; align-items: baseline; gap: 24px;\n      padding: 12px 0;\n      border-bottom: 1px solid var(--border-soft);\n    }\n    .specimen {\n      flex: 1; min-width: 0; color: var(--text-strong);\n      font-family: var(--font-sans);\n      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;\n    }\n    .meta { flex-shrink: 0; width: 260px; display: flex; flex-direction: column; gap: 2px; text-align: right; }\n    .name { font-size: var(--fs-13); font-weight: 500; color: var(--text-body); }\n    .spec { font-size: var(--fs-12); color: var(--text-sub); font-variant-numeric: tabular-nums; }\n  "],
+  "mappings": ";AACI,CAAC;AAAO,WAAS;AAAM,kBAAgB;AAAQ;AAC/C,CAAC;AACC,WAAS;AAAM,eAAa;AAAU,OAAK;AAC3C,WAAS,KAAK;AACd,iBAAe,IAAI,MAAM,IAAI;AAC/B;AACA,CAAC;AACC,QAAM;AAAG,aAAW;AAAG,SAAO,IAAI;AAClC,eAAa,IAAI;AACjB,eAAa;AAAQ,YAAU;AAAQ,iBAAe;AACxD;AACA,CAAC;AAAO,eAAa;AAAG,SAAO;AAAO,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAK,cAAY;AAAO;AAC1G,CAAC;AAAO,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AAAc;AAC5E,CAAC;AAAO,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,wBAAsB;AAAc;",
+  "names": []
+}

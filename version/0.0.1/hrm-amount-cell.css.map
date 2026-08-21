@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;866e4c6f45dabae982902df008e467539bf64ff2ccf85655cd2a491d2b39c6dd;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/table-cells/hrm-amount-cell.ts"],
+  "sourcesContent": ["\n:host { display: block; text-align: right; font-variant-numeric: tabular-nums;\n  font-size: var(--fs-14); color: var(--text-strong); }\n:host([data-sign='pos']) .am-val { color: var(--success-base); }\n:host([data-sign='neg']) .am-val { color: var(--error-base); }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAO,cAAY;AAAO,wBAAsB;AAC/D,aAAW,IAAI;AAAU,SAAO,IAAI;AAAgB;AACtD,MAAM,CAAC,SAAS,CAAC,QAAQ,CAAC;AAAS,SAAO,IAAI;AAAiB;AAC/D,MAAM,CAAC,SAAS,CAAC,QAAQ,CADC;AACS,SAAO,IAAI;AAAe;",
+  "names": []
+}

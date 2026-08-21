@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;62759be4da241d5554c52ce150caba35bf0ee4a8159df5ff56ddf1d254b2779d;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/table-cells/hrm-user-cell.ts"],
+  "sourcesContent": ["\n/* display:flex (block-level) \u2014 kh\u00F4ng tham gia baseline c\u1EE7a td, tr\u00E1nh l\u1EC7ch d\u00F2ng v\u1EDBi \u00F4 hai d\u00F2ng (Text Cell). */\n:host { display: flex; align-items: center; gap: 10px; min-width: 0; max-width: 100%; }\n.uc-body { display: flex; flex-direction: column; min-width: 0; }\n.uc-name { font-size: var(--fs-14); color: var(--text-strong); line-height: 1.35;\n  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }\n.uc-sub { font-size: var(--fs-12); color: var(--text-sub); line-height: 1.3;\n  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }\n  "],
+  "mappings": ";AAEA;AAAQ,WAAS;AAAM,eAAa;AAAQ,OAAK;AAAM,aAAW;AAAG,aAAW;AAAM;AACtF,CAAC;AAAU,WAAS;AAAM,kBAAgB;AAAQ,aAAW;AAAG;AAChE,CAAC;AAAU,aAAW,IAAI;AAAU,SAAO,IAAI;AAAgB,eAAa;AAC1E,eAAa;AAAQ,YAAU;AAAQ,iBAAe;AAAU;AAClE,CAAC;AAAS,aAAW,IAAI;AAAU,SAAO,IAAI;AAAa,eAAa;AACtE,eAAa;AAAQ,YAAU;AAAQ,iBAAe;AAAU;",
+  "names": []
+}

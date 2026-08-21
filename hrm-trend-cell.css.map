@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;fd8958c7d611183646989ab650da11fb9e3c5a3e854645aa18ad0a4d2ccb6fd2;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/table-cells/hrm-trend-cell.ts"],
+  "sourcesContent": ["\n:host { display: inline-flex; align-items: center; gap: 8px; }\n.tr-val { font-size: var(--fs-14); color: var(--text-strong); font-variant-numeric: tabular-nums; }\n.tr-delta { display: inline-flex; align-items: center; gap: 2px; font-size: var(--fs-13); font-weight: 500;\n  font-variant-numeric: tabular-nums; }\n.tr-delta[data-dir='up']   { color: var(--success-base); }\n.tr-delta[data-dir='down'] { color: var(--error-base); }\n.tr-delta[data-dir='flat'] { color: var(--text-sub); }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK;AAC7D,CAAC;AAAS,aAAW,IAAI;AAAU,SAAO,IAAI;AAAgB,wBAAsB;AAAc;AAClG,CAAC;AAAW,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK,aAAW,IAAI;AAAU,eAAa;AACrG,wBAAsB;AAAc;AACtC,CAFC,QAEQ,CAAC;AAAmB,SAAO,IAAI;AAAiB;AACzD,CAHC,QAGQ,CAAC;AAAmB,SAAO,IAAI;AAAe;AACvD,CAJC,QAIQ,CAAC;AAAmB,SAAO,IAAI;AAAa;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;c3a1ebd5fc012ea48ba53e98d53f4c7e45e69bed61bac5ed1e471ae2b23053a5;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/_shared/ins-layer-badge.ts"],
+  "sourcesContent": ["\n    :host {\n      display: inline-flex; align-items: center; white-space: nowrap;\n      font-size: var(--fs-11); line-height: 1.4; font-weight: 500;\n      padding: 0 7px; border-radius: var(--radius-sm);\n    }\n    :host([data-layer='du-kien']) { background: var(--info-bg); color: var(--info-text); }\n    :host([data-layer='da-giao-dich']) { background: var(--tag-purple-bg); color: var(--tag-purple-text); }\n    :host([data-layer='chinh-thuc']) { background: var(--success-bg); color: var(--success-text); }\n  "],
+  "mappings": ";AACI;AACE,WAAS;AAAa,eAAa;AAAQ,eAAa;AACxD,aAAW,IAAI;AAAU,eAAa;AAAK,eAAa;AACxD,WAAS,EAAE;AAAK,iBAAe,IAAI;AACrC;AACA,MAAM,CAAC,UAAU,CAAC;AAAc,cAAY,IAAI;AAAY,SAAO,IAAI;AAAc;AACrF,MAAM,CAAC,UAAU,CAAC;AAAmB,cAAY,IAAI;AAAkB,SAAO,IAAI;AAAoB;AACtG,MAAM,CAAC,UAAU,CAAC;AAAiB,cAAY,IAAI;AAAe,SAAO,IAAI;AAAiB;",
+  "names": []
+}

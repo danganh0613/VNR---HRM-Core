@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;77c031dfc724788796dfb011b7c21e31057947e6fdb87a74c83d08cb1059a6c4;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/chart/hrm-chart.ts"],
+  "sourcesContent": ["\n:host { display: block; } .hc-host { width: 100%; }\n  "],
+  "mappings": ";AACA;AAAQ,WAAS;AAAO;AAAE,CAAC;AAAU,SAAO;AAAM;",
+  "names": []
+}

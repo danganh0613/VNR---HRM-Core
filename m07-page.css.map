@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;891118899d4d9f35549dd7ef7e5558edb61f1bfe42fce54b56155004fc658e98;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/m07-payment/m07-page.ts"],
+  "sourcesContent": ["\n    :host { display: flex; flex-direction: column; flex: 1 1 auto; min-height: 0; }\n    /* ds-demo global zero padding-ngang nz-page-header \u2192 set l\u1EA1i chu\u1EA9n \u0111\u1ED1i x\u1EE9ng (gi\u1ED1ng M01/M02). */\n    :host ::ng-deep .m07-ph .ant-page-header { padding: 16px 24px; }\n    .m07-bar { flex: none; padding: 0 24px 12px; }\n    .m07-body { flex: 1 1 auto; min-height: 0; display: flex; flex-direction: column; padding: 0 24px 16px; overflow: auto; }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAM,kBAAgB;AAAQ,QAAM,EAAE,EAAE;AAAM,cAAY;AAAG;AAE9E,MAAM,UAAU,CAAC,OAAO,CAAC;AAAkB,WAAS,KAAK;AAAM;AAC/D,CAAC;AAAU,QAAM;AAAM,WAAS,EAAE,KAAK;AAAM;AAC7C,CAAC;AAAW,QAAM,EAAE,EAAE;AAAM,cAAY;AAAG,WAAS;AAAM,kBAAgB;AAAQ,WAAS,EAAE,KAAK;AAAM,YAAU;AAAM;",
+  "names": []
+}

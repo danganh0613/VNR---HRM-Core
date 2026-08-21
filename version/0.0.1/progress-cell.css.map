@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;ba0c411a4055583d4a6088061c0d172cf11da56f1e46748572a964da955965ff;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/table-cells/progress-cell.ts"],
+  "sourcesContent": ["\n    .w { width: 240px; }\n    .col { display: flex; flex-direction: column; gap: 16px; align-items: flex-start; }\n  "],
+  "mappings": ";AACI,CAAC;AAAI,SAAO;AAAO;AACnB,CAAC;AAAM,WAAS;AAAM,kBAAgB;AAAQ,OAAK;AAAM,eAAa;AAAY;",
+  "names": []
+}

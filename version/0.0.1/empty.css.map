@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;fdcd0d096dab96f6d30cb88a237ce5db0c96aa571a76e96052cf181847697bd5;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/data-display/empty.ts"],
+  "sourcesContent": [".sg-empty-icon { color: var(--icon-secondary, var(--text-sub)); display: inline-flex; }"],
+  "mappings": ";AAAA,CAAC;AAAgB,SAAO,IAAI,gBAAgB,EAAE,IAAI;AAAc,WAAS;AAAa;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;ab58910eab3445335a6529666d3dcd91145c6524e5e66ca6c70432bb06b74928;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/apps/ds-demo/src/app/features/styleguide/pages/hrm/feature/insurance/_shared/ins-section-label.ts"],
+  "sourcesContent": ["\n    :host { display: inline-flex; align-items: center; gap: 7px; }\n    .sl-tx {\n      font-size: var(--fs-11); font-weight: 700; letter-spacing: .05em;\n      text-transform: uppercase; line-height: 1.4;\n    }\n    :host([data-tone='critical']) .sl-tx { color: var(--error-base); }\n    :host([data-tone='attention']) .sl-tx { color: var(--warning-base); }\n    :host([data-tone='ontrack']) .sl-tx { color: var(--success-base); }\n    :host([data-tone='muted']) .sl-tx { color: var(--text-sub); }\n    .sl-count {\n      font-size: var(--fs-11); font-weight: 600; color: var(--text-sub);\n      background: var(--bg-surface-subtle); border-radius: var(--radius-full);\n      padding: 0 7px; line-height: 1.6;\n    }\n  "],
+  "mappings": ";AACI;AAAQ,WAAS;AAAa,eAAa;AAAQ,OAAK;AAAK;AAC7D,CAAC;AACC,aAAW,IAAI;AAAU,eAAa;AAAK,kBAAgB;AAC3D,kBAAgB;AAAW,eAAa;AAC1C;AACA,MAAM,CAAC,SAAS,CAAC,aAAa,CAJ7B;AAIsC,SAAO,IAAI;AAAe;AACjE,MAAM,CAAC,SAAS,CAAC,cAAc,CAL9B;AAKuC,SAAO,IAAI;AAAiB;AACpE,MAAM,CAAC,SAAS,CAAC,YAAY,CAN5B;AAMqC,SAAO,IAAI;AAAiB;AAClE,MAAM,CAAC,SAAS,CAAC,UAAU,CAP1B;AAOmC,SAAO,IAAI;AAAa;AAC5D,CAAC;AACC,aAAW,IAAI;AAAU,eAAa;AAAK,SAAO,IAAI;AACtD,cAAY,IAAI;AAAsB,iBAAe,IAAI;AACzD,WAAS,EAAE;AAAK,eAAa;AAC/B;",
+  "names": []
+}

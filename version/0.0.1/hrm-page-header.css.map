@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;9bec156656b546a7caf2854cfd74d44626302997276ce10578a473240a977b00;/Users/mac/projects/Final Core Prototype/vnr.hrm.prototype/src/vnr.hrm.web/libs/hrm-ui/src/lib/navigation/hrm-page-header.ts"],
+  "sourcesContent": ["\n    /* N\u1EC1n kh\u1ED1i ti\u00EAu \u0111\u1EC1 = surface token \u2192 TR\u1EAENG \u1EDF light, n\u1EC1n t\u1ED1i d\u1ECBu \u1EDF dark (t\u1EF1 \u0111\u1ED5i theo mode). */\n    :host ::ng-deep .ant-page-header { background: var(--bg-surface); }\n\n    /* Ph\u1EE5 \u0111\u1EC1 n\u1EB1m D\u01AF\u1EDAI ti\u00EAu \u0111\u1EC1 (nz m\u1EB7c \u0111\u1ECBnh \u0111\u1EC3 c\u1EA1nh ph\u1EA3i) \u2014 stack d\u1ECDc, TH\u1EB2NG H\u00C0NG m\u00E9p tr\u00E1i ti\u00EAu \u0111\u1EC1. */\n    :host ::ng-deep .ant-page-header-heading-left { flex-wrap: wrap; align-items: baseline; row-gap: 2px; }\n    :host ::ng-deep .ant-page-header-heading-sub-title {\n      flex: 0 0 100%; margin: 0; padding: 0; white-space: normal; line-height: 1.4;\n    }\n    /* N\u00FAt back r\u1ED7ng (nzBackIcon='') kh\u00F4ng chi\u1EBFm ch\u1ED7 \u2192 ti\u00EAu \u0111\u1EC1 & ph\u1EE5 \u0111\u1EC1 c\u00F9ng m\u00E9p tr\u00E1i. */\n    :host ::ng-deep .ant-page-header-back { margin-right: 0; }\n  "],
+  "mappings": ";AAEI,MAAM,UAAU,CAAC;AAAkB,cAAY,IAAI;AAAe;AAGlE,MAAM,UAAU,CAAC;AAA+B,aAAW;AAAM,eAAa;AAAU,WAAS;AAAK;AACtG,MAAM,UAAU,CAAC;AACf,QAAM,EAAE,EAAE;AAAM,UAAQ;AAAG,WAAS;AAAG,eAAa;AAAQ,eAAa;AAC3E;AAEA,MAAM,UAAU,CAAC;AAAuB,gBAAc;AAAG;",
+  "names": []
+}
